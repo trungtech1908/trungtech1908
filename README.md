@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=3776AB" /> 
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />  
 - **Kỹ năng chính**: AI/ML, Scikit-learn, PyTorch, Pandas, OpenCV  
-- **Đang khám phá**: Deep Learning & Computer Vision  
+- **Đang khám phá**: Deep Learning & Computer Vision & LLM|RAG
 - **Liên hệ**: [trungtech1908@gmail.com](trungtech1908@gmail.com)  
 
 ---
