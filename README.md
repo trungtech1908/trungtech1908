@@ -1,49 +1,67 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h1 align="center">👋 Xin chào, Tôi là Đinh Đức Bảo Trung</h1>
+<h3 align="center">Lập trình viên đam mê AI/ML, Python & C++</h3>
 
-###
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=trungtech1908&label=Lượt%20ghé%20thăm&color=ff69b4&style=flat-square" alt="Profile views" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p align="center">
+  <a href="https://github.com/trungtech1908">
+    <img src="https://img.shields.io/github/followers/trungtech1908?label=Theo%20dõi&style=social&logo=github&color=purple" alt="GitHub followers" />
+  </a>
+  <a href="https://twitter.com/your_twitter">
+    <img src="https://img.shields.io/twitter/follow/your_twitter?label=Twitter&style=social&logo=twitter&color=1DA1F2" alt="Twitter" />
+  </a>
+</p>
 
-###
+---
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+### 🌟 Giới thiệu bản thân
+- **Tên tài khoản**: trungtech1908  
+- **Tên thật**: Đinh Đức Bảo Trung  
+- **Ngôn ngữ yêu thích**:  
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=3776AB" /> 
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />  
+- **Kỹ năng chính**: AI/ML, Scikit-learn, PyTorch, Pandas, OpenCV  
+- **Đang khám phá**: Deep Learning & Computer Vision  
+- **Liên hệ**: [email@example.com](mailto:email@example.com)  
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+### 🛠 Công cụ & Công nghệ
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,scikitlearn,pandas,opencv" />
+</p>
 
-###
+---
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+### 📊 Thống kê GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=trungtech1908&show_icons=true&theme=gruvbox&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trungtech1908&theme=gruvbox&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungtech1908&layout=compact&theme=gruvbox&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</p>
 
-###
+---
 
-<br clear="both">
+### ✨ Dự án nổi bật
+- **[Dự án AI Xịn](link)**: Dùng PyTorch để dự đoán tương lai (đùa thôi, chỉ là phân loại ảnh).  
+- **[Xử lý ảnh đỉnh cao](link)**: OpenCV biến ảnh xấu thành ảnh... đỡ xấu hơn.  
+- **[Phân tích dữ liệu](link)**: Pandas và Scikit-learn giúp tôi tìm ra sự thật ẩn trong số liệu.  
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+---
 
-###
+### 💬 Fun Fact
+> "Tôi từng debug code bằng cách nhìn chằm chằm vào màn hình đến khi nó tự sửa – nhưng rồi tôi phát hiện ra đó chỉ là giấc mơ sau khi ngủ gục trên bàn phím!"  
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKz2b3wyk65gmnS/giphy.gif" width="250" alt="Funny Coding GIF" />
+</p>
+
+<p align="center">
+  <i>"Code không chạy thì không phải lỗi của tôi, mà là của vũ trụ!"</i>
+</p>
