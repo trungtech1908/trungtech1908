@@ -9,9 +9,6 @@
   <a href="https://github.com/trungtech1908">
     <img src="https://img.shields.io/github/followers/trungtech1908?label=Theo%20dõi&style=social&logo=github&color=bd93f9" alt="GitHub followers" />
   </a>
-  <a href="https://twitter.com/your_twitter">
-    <img src="https://img.shields.io/twitter/follow/your_twitter?label=Twitter&style=social&logo=twitter&color=50fa7b" alt="Twitter" />
-  </a>
 </p>
 
 ---
@@ -24,7 +21,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />  
 - **Kỹ năng chính**: AI/ML, Scikit-learn, PyTorch, Pandas, OpenCV  
 - **Đang khám phá**: Deep Learning & Computer Vision  
-- **Liên hệ**: [email@example.com](mailto:email@example.com)  
+- **Liên hệ**: [trungtech1908@gmail.com](trungtech1908@gmail.com)  
 
 ---
 
