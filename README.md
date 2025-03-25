@@ -6,7 +6,7 @@
 <h3 align="center">Lập trình viên đam mê AI/ML | Python & C++</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=trungtech1908&label=Lượt%20ghé%20thăm&color=ff79c6&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=trungtech1908&label=Lượt%20ghé%20thăm&color=8be9fd&style=flat-square" alt="Profile views" />
 </p>
 
 <p align="center">
@@ -34,26 +34,22 @@
 
 ### 🛠 Công nghệ tôi dùng
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,scikitlearn,pandas,opencv,git,github,vscode,docker,linux,tensorflow,flask,fastapi,aws" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,scikitlearn,pandas,opencv,git,github,vscode,docker,linux,tensorflow" />
 </p>
 
 ---
 
 ### 📊 Thống kê GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trungtech1908&show_icons=true&theme=nightowl&hide_border=true&bg_color=0F172A&title_color=7F9CF5&text_color=E2E8F0&icon_color=FBBF24&border_radius=20" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=trungtech1908&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=bb9af7&text_color=fff&border_radius=15" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trungtech1908&theme=nightowl&hide_border=true&background=0F172A&stroke=7F9CF5&ring=FBBF24&fire=7F9CF5&currStreakLabel=E2E8F0&border_radius=20" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trungtech1908&theme=tokyonight&hide_border=true&background=1a1b26&stroke=bb9af7&ring=7aa2f7&fire=bb9af7&currStreakLabel=fff&border_radius=15" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungtech1908&layout=compact&theme=nightowl&hide_border=true&bg_color=0F172A&title_color=7F9CF5&text_color=E2E8F0&border_radius=20" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungtech1908&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=bb9af7&text_color=fff&border_radius=15" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=trungtech1908&theme=dracula&no-frame=true&margin-w=15&column=5" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=trungtech1908&theme=dracula&bg_color=0F172A&color=FBBF24&line=7F9CF5&point=E2E8F0&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=trungtech1908&theme=onedark&no-frame=true&margin-w=15&column=5" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -67,7 +63,7 @@
 
 ### 🐍 Hành trình đóng góp của tôi
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg?color_snake=FBBF24&color_dots=0F172A,3B82F6,7F9CF5,FBBF24,EF4444" alt="Snake Animation" />
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg?color_snake=bb9af7&color_dots=1a1b26,414868,7aa2f7,bb9af7,f7768e" alt="Snake Animation" />
 </p>
 
 <p align="center">
@@ -77,5 +73,5 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKz2b3wyk65gmnS/giphy.gif" width="200" alt="Coding Animation" />
+  <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="150" alt="Coding Animation" />
 </p>
